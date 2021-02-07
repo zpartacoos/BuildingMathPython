@@ -1,2 +1,3 @@
-# BuildingMathPython
-Building mathematics with Python (pre-calcalculus, calculus and linear algebra)
+# Building Math with Python
+## Chapter 1: Complex Numbers 
+In this chapter, we'll explore the differences between the naturals, integers, reals, and complex numbers and how we might define a notion of addition, subtraction, multiplication, division for these type of quantities. We'll also touch on different "encodings" or "notations" for how to represent these quantities, such as polar form (defined in terms of angle and length) or rectangular form (defined in terms of real and imaginary components). If these ideas are unfamiliar to you, please review the [code for this chapter](./chapter1_complex_numbers.ipynb). 
